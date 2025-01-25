@@ -2,3 +2,4 @@
 - [Sign up and Login (Google Sheets)](https://docs.google.com/spreadsheets/d/19PdH54AaLMAxv-lkyAmVdBOfQmiB75Kfv8ImD0v6NM8/edit?usp=sharing)
 - [Sign up and Login (Trello)](https://trello.com/b/znL1lV3D/test-scenarios-1)
 - [Aliexpress Sign in / Register Checklist  (Google Sheets)](https://docs.google.com/spreadsheets/d/1osHOUeiq9SUWWWrgYvT3hLzaFAB6MOQABZQi9339i6I/edit?pli=1&gid=0#gid=0)
+- [Aktin website (manual testing findings) (Google Sheets)](https://docs.google.com/spreadsheets/d/1iq-fosZmrI2TXksGSGW_DjkL8728YLBdh3HhYGAvGPU/edit?usp=sharing)
